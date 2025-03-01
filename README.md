@@ -1,2 +1,2 @@
 # Start-Git
-Start learing about Git 
+Start learing about Git & GitHub.
